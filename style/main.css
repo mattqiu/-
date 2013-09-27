@@ -1,0 +1,44 @@
+#stage{
+	width: 860px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.hd{
+	text-align: center;
+}
+.navigation{
+	margin-bottom: 20px;
+}
+.content{
+	border: 1px solid #CCC;
+	padding: 20px;
+	margin: 10px 0;
+	box-shadow: 0 0 3px #CCC;
+	-webkit-box-shadow: 0 0 3px #CCC;
+	-moz-box-shadow: 0 0 3px #ccc;
+	-o-box-shadow: 0 0 3px #ccc;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+}
+.footer{
+	text-align: center;
+}
+.single{
+	border-bottom: 1px dashed #CCC;
+	padding-bottom: 20px;
+}
+.title_single{
+	color: #5C9BDF;
+	margin-bottom: -5px;
+}
+.main{
+	padding: 5px 5px 5px 15px;
+}
+.more{
+	float:right;
+}
+.add_title{
+	border-bottom: 1px dashed #CCC;
+}
